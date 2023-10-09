@@ -1,6 +1,6 @@
 # Library-Management-System
 
-**Minds** is an Online Library Management System website built in **ASP.NET** platform with ### **C#** as a programming language. It provides the users with the ability to **Register** to this website and **Search & Issue** books. Each user will have their **Own Account & User Profile** where their information and issued books will be shown. They can **Edit and Update their profile info** as needed.
+**Minds** is an Online Library Management System website built in **ASP.NET** platform with **C#** as a programming language. It provides the users with the ability to **Register** to this website and **Search & Issue** books. Each user will have their **Own Account & User Profile** where their information and issued books will be shown. They can **Edit and Update their profile info** as needed.
 
 Anyone can View book **without being a member** but to issue any book, they need to be registered member of the library. Once they find a book attractive they can apply for the book issuing and his interest in a particular book will be passed to the admin for approval with his user Id and book Id. If he is an active member of the library and not in Defaulters list, then the admin will approve his request and issue the book for a certain period of time if the book is available in the library.
 
